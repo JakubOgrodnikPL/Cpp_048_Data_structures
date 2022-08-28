@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657456397 source:c:\users\jakub\documents\programowanie\c++\048_data_structures\main.cpp
+	<iostream>
+	<windows.h>
+
